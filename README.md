@@ -1,5 +1,2 @@
 ### Hello to all fellow students or learners
-<div id="header" align="center">
-  <img src="https://i.gifer.com/7gGg.gif"/>
-</div>
-https://i.gifer.com/7gGg.gif
+![](https://cdn-icons-png.flaticon.com/512/354/354637.png)
