@@ -12,4 +12,4 @@
 ## Contact Me
 📧 pempekplg3@gmail.com
 
-<img src="https://cdn-icons-png.flaticon.com/512/124/124027.png" width="30" height="auto"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/124/124027.png" width="19" height="auto"></img>
