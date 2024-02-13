@@ -11,7 +11,7 @@
 - 🤙 Ready to face new challenges
 
 ## Currently Learning
-![](https://ih1.redbubble.net/image.841964176.7438/st,small,507x507-pad,600x600,f8f8f8.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="120" height="auto" alt="C">  <img src="https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg" width="200" height="auto" alt="Web Development">
 
 ## Contact Me
 📧 pempekplg3@gmail.com
