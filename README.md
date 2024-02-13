@@ -12,3 +12,4 @@
 <button>
 <a href="mailto:pempekplg3@gmail.com" class="email-button">Contact Me</a>
 </button>
+<button name="button">Click me</button>
