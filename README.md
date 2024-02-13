@@ -11,7 +11,7 @@
 - 🤙 Ready to face new challenges
 
 ## Currently Learning
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)
+![](https://ih1.redbubble.net/image.841964176.7438/st,small,507x507-pad,600x600,f8f8f8.jpg)
 
 ## Contact Me
 📧 pempekplg3@gmail.com
