@@ -9,4 +9,6 @@
 - 🎹 Music is my hobby
 - 🧑‍🎓 Currently Studying at University of Indonesia
 
+<button>
 <a href="mailto:pempekplg3@gmail.com" class="email-button">Contact Me</a>
+</button>
