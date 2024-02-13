@@ -8,9 +8,13 @@
 - 🎮 Playing games is my life
 - 🎹 Music is my hobby
 - 🧑‍🎓 Currently Studying at University of Indonesia
+- 🤙 Ready to face new challenges
+
+## Currently Learning
 
 ## Contact Me
 📧 pempekplg3@gmail.com
 
 <img src="https://cdn-icons-png.flaticon.com/512/124/124027.png" width="19" height="auto"></img> pempekplg3
+<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-white-png.png" width="19" height="auto" alt="intagram profile"> wesleyfo4004
 
